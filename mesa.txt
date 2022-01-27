@@ -1,4 +1,0 @@
-Onde cliente se encontra: 63, nome/login: gabriel
-Onde cliente se encontra: 534, nome/login: gabriel
-Onde cliente se encontra: 63, nome/login: pedro
-Onde cliente se encontra: 63, nome/login: gabriel
