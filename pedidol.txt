@@ -1,0 +1,3 @@
+
+opcao do cardapio: 1, pedido bebida:2 nome/login: gabriel
+opcao do cardapio: 3 doce pedido: 2 nome/login gabriel
