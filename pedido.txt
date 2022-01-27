@@ -1,8 +1,0 @@
-
-
-opcao do cardapio: 2, pedido comida/lanche: 1 nome/login: 53354
-
-opcao do cardapio: 1, pedido: 1, nome/login: 213213
-
-opcao do cardapio: 1, pedido: 2, nome/login: fa
-opção do cardápio: 2, pedido comida/lanche: 2 nome/login: fa
