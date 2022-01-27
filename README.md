@@ -1,2 +1,3 @@
 # my_student_python
-Desenvolvimento com programação python
+Desenvolvimento com programação python (Login/cadastro e registros 
+de pedidos)
