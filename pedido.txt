@@ -1,8 +1,0 @@
-
-opcao do cardapio: 1, pedido: 2, nome/login: gabriel
-
-opcao do cardapio: 1, pedido: 3, nome/login: pedro
-opcao do cardapio: 3 pedido doce:2 nome\login: pedro
-
-opcao do cardapio: 1, pedido: 2, nome/login: gabriel
-opcao do cardapio: 2, pedido comida/lanche: 1 nome/login: gabriel
