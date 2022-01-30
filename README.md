@@ -1,2 +1,2 @@
 # my_student_python
-Desenvolvimento com programação python(acesse a branch master)
+Desenvolvimento com programação python(acesse os arquivos)
