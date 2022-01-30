@@ -1,0 +1,7 @@
+
+opcao do cardapio: 1, pedido: 2, nome/login: gabriel
+
+
+opcao do cardapio: 1, pedido: 1, nome/login: pedro
+
+opcao do cardapio: 1, pedido: 2, nome/login: g
