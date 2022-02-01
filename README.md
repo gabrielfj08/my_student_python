@@ -1,4 +1,4 @@
-# my_student_python
+# Meus estudos em python(1° projeto)
 <div>
   <img src="https://github.com/gabrielfj08/my_student_python/blob/Principal/python_office.jpg">
 </div>
